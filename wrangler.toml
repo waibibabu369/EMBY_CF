@@ -1,6 +1,7 @@
 name = "emby-proxy"
 main = "worker.js"
 compatibility_date = "2025-05-15"
+workers_dev = true
 
 [vars]
 BASE_DOMAIN = "example.com"
